@@ -116,4 +116,4 @@ def standardDeviation():
         elif (nextOne.lower() != "y" and nextOne.lower() != "n"):
             continue
     
-# standardDeviation()
+standardDeviation()
