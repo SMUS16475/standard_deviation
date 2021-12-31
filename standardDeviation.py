@@ -1,4 +1,4 @@
-import time 
+import time
 
 def standardDeviation():
     num = 0
